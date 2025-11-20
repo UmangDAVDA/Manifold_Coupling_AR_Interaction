@@ -41,13 +41,13 @@ To quit application
 ![Loginpage](https://github.com/user-attachments/assets/f7466b0d-8b63-451b-9f3e-c1edd3a450a6)
 
 HOME PAGE
-![Mainpage](https://github.com/user-attachments/assets/2670b214-b511-4b6a-899b-83117f8d9b38)
+![Homepage](https://github.com/user-attachments/assets/b1cfb061-603b-4ae9-858b-09931f0caccd)
 
 CONNECTION
 ![Connection](https://github.com/user-attachments/assets/dcff64c5-3c24-408a-86e2-d4a9cb1c5a5f)
 
 DISCONNECTION
-![Disconnection](https://github.com/user-attachments/assets/60368c78-b06b-445f-9355-9dd1d856afeb)
+![Disconnection](https://github.com/user-attachments/assets/35332c4e-36fa-4ed0-9159-1c4609459d74)
 
 
 
