@@ -36,7 +36,19 @@ To restart application
 
 -Quit.cs
 To quit application
-![IMG-20251120-WA0011](https://github.com/user-attachments/assets/aa3e0a69-8341-45e6-9f66-1edb15b3efce)
+
+ USER LOGIN
+![Loginpage](https://github.com/user-attachments/assets/f7466b0d-8b63-451b-9f3e-c1edd3a450a6)
+
+HOME PAGE
+![Mainpage](https://github.com/user-attachments/assets/2670b214-b511-4b6a-899b-83117f8d9b38)
+
+CONNECTION
+![Connection](https://github.com/user-attachments/assets/dcff64c5-3c24-408a-86e2-d4a9cb1c5a5f)
+
+DISCONNECTION
+![Disconnection](https://github.com/user-attachments/assets/60368c78-b06b-445f-9355-9dd1d856afeb)
+
 
 
 
