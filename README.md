@@ -4,35 +4,35 @@ Manifold Coupling using AR
 
 I have attached 11 scripts which will help Manifold Coupling using AR
 
-Aspectratio.cs
+-Aspectratio.cs
 For fixing the orientation and resolution of scripts.
 
-Startbtn.cs
+-Startbtn.cs
 This script is attached to working btn object for button click function connection and disconnection
 
-Working.cs
+-Working.cs
 Its for connection i.e to connect Male manifold  and Female coupling sections and to rotate and engage 
 
-Workingd.cs
+-Workingd.cs
 Its for disconnection i.e to to rotate and disengage and to disconnect Male manifold  and Female coupling sections.
 
-arfocus.cs
+-arfocus.cs
 To fix and focus AR object on camera
  
-fixcamerapos.cs
+-fixcamerapos.cs
 Fix camera pos
 
-form.cs
+-form.cs
 This is the User Login form script which takes Name and Number and submits it to output using Login button
 
-setplacement.cs
+-setplacement.cs
 To set the placement of AR gameobject.
 
-arreplace.cs
+-arreplace.cs
 To replace the current prefab object with AR gameobjectokk
 
-restart.cs
+-restart.cs
 To restart application
 
-Quit.cs
+-Quit.cs
 To quit application
